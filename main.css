@@ -1,8 +1,8 @@
 body {
   font-family: “Helvetica Neue”, Helvetica, Arial, sans-serif;
   margin: auto;
-  min-width: 666px;
-  width: 70%;
+  max-width: 860px;
+  min-width: 630px;
   font-size: 15px;
 }
 
@@ -26,15 +26,15 @@ header h1 {
 }
 
 div h1 {
-  font-size: 1.5em;
+  font-size: 1em;
 }
 
 div h2 {
-  font-size: 1.5em;
+  font-size: 1em;
 }
 
 div h3 {
-  font-size: 1.2em;
+  font-size: 1em;
 }
 
 /**
@@ -51,15 +51,14 @@ div#left ul{
   margin-top: .5em;
   padding-left: 1em;
   margin-left: 1em;
-  font-size: 0.9em;
 }
 
 div#left h1{
-  font-size: 0.9em;
   margin-top: 20px;
 }
 
 div#left h2{
+  font-size: 1.25em;
   padding-top: 0px;
   margin-bottom: auto;
 }
@@ -79,32 +78,30 @@ Right col
 div#right {
   width: 30%;
   float: right;
-  font-size: 1em;
-}
-
-div#right ul {
-  margin-top: 0em;
-  padding-left: 0em;
-  font-size: .7em
-}
-
-div#right ul li  {
-  margin-top: 0em;
-  display: inline;
 }
 
 div#right h1 {
-  font-size: 0.9em;
   padding-bottom: 1px;
   margin-bottom: 2px;
   margin-top: 20px;
 }
 
 div#right h2 {
-  font-size: 0.7em;
+  font-size: 0.8em;
   margin-bottom: .3em;
   width: 100%;
   border-bottom-width: 3px;
+}
+
+div#right ul {
+  font-size: 0.8em;
+  margin-top: 0em;
+  padding-left: 0em;
+}
+
+div#right ul li  {
+  margin-top: 0em;
+  display: inline;
 }
 
 div#right i {
@@ -115,16 +112,12 @@ div#right li:last-child:after  {
   content: "."
 }
 
+div#right li:after  {
+  content: " +"
+}
+
 a {
   color: black;
-}
-
-#nyu {
-  color: #57068c;
-}
-
-#sysomos {
-  color: #ff6b00;
 }
 
 #quora:hover {
