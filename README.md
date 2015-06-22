@@ -78,7 +78,7 @@ _Supervisor: Dr.Rumi Chunara_
 
 # Internet
 
-*   [Quora](http://www.quora.com/Jason-Liu-21/answer)
+*   [Quora](http://www.quora.com/Jason-Liu-21)
 *   [Github](https://github.com/jxnl)
 *   [Dribbble](https://dribbble.com/jxnl)
 *   [LinkedIn](https://ca.linkedin.com/in/jxnlco)
