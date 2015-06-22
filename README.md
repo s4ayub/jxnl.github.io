@@ -14,6 +14,7 @@ iPython Scikit Learn NLTK Gensim BeautifulSoup Requests Flask
 
 VIM GIT PyCharm Eclipse
 
+---------
 
 ### Work Experience
 
@@ -37,6 +38,7 @@ _Supervisor: Dr.Rumi Chunara_
 *   Developed interfaces to community detection and Multiarmed bandit algorithm.
 *   Created MapReduce and Spark applications for Audience generation and various ad-hoc ETL.
 
+------------
 
 #### Projects
 
@@ -60,6 +62,8 @@ _Supervisor: Dr.Rumi Chunara_
 *   Reservoir - Python module for uniform, exponential, and weighted reservoir sampling.
 *   Bandit -- Java Implementation of various bandit algorithms.
 
+------
+
 #### Education
 
 ##### University of Waterloo: Computational Mathematics & Statistics
@@ -77,6 +81,7 @@ _Supervisor: Dr.Rumi Chunara_
 *   **Data Science** by Bill Howe
 *   **Natural Language Processing** by Dan Jurafsky
 
+--------
 
 #### Internet
 
