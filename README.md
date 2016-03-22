@@ -1,92 +1,112 @@
-If you want to contact me for data science internships... i'm right [here](mailto:jason@jxnl.co).
+# JXNL.CO
 
-### Summary of Qualifications
+</header>
 
-#####TECHNOLOGIES
+<div id="left">
 
-Python R Scala Java Hadoop Spark MongoDB HBase
+<section id="work">
 
-##### TOOLKIT
+# Work Experience
 
-iPython Scikit Learn NLTK Gensim BeautifulSoup Requests Flask
+## StitchFix
 
-##### DEVELOPMENT
+### Data Scientist — Algorithms (Data Labs)
 
-VIM GIT PyCharm Eclipse
+*   Conducting and designing experiments to understand how we can build algorithms for stylists to leverage clients with long history.
+*   Presented results to many stakeholders at various technical levels, stylists, leadership team, fellow data scientists.
+*   Exploring the application of transfer learning to estimate mappings between different representations of apparel, i.e. image features to text topic models.
+*   Modeled and constructed a graph visualization of data scientists based on previous research similarity and proposed various applications.
+*   Attempted to model client referral behavior using agent based approaches
 
----------
+## NYU Global Institute of Public Health
 
-### Work Experience
-
-#### NYU Global Institute of Public Health
-
-###### Research Intern (Current Position)
-
-Currently working on discriminative machine learning models to find patterns of drug abuse on social media including Facebook and Twitter.
+### Research Assistant — ChunaraLab
 
 _Supervisor: Dr.Rumi Chunara_
 
-*   Built preprocessing and ingestion pipeline for machine learning with Scikit Learn and Gensim
-*   Word2Wec sentence representation with tf-idf weighting for text classification
-*   Hidden Markov Models for temporal evidence of drug usage on a single user basis
+*   Worked on machine learning projects in the domain of observational studies in social media and public health.
+*   Leveraged Amazon Mechanical Turk to build an active learning pipeline for heirarchical classification using support vector machines
+*   Develop preprocessing and ingestion code for machine learning with Scikit Learn and Gensim
+*   Submitted research paper to SIGKDD Applied Data Science Track currently under review.
 
-##### Sysomos
+## Marketwired
 
-###### Data Scientist
+### Data Scientist — Sysomos Labs
 
 *   Prototyped a proof of concept advertisement recommendation platform for offline targeted ads.
 *   Developed interfaces to community detection and Multiarmed bandit algorithm.
 *   Created MapReduce and Spark applications for Audience generation and various ad-hoc ETL.
 
-------------
+# Writing
 
-#### Projects
+## Publications
 
-##### Mark Sweep
+**Liu J.**, Weitzman E.,Chunara R.  
+Assessing Behavior Stage Progression from Social Media Data _Conference on Knowledge Discovery and Data Mining **Currently Under Review** _2016, San Francisco, CA, USA
 
-*   Best use of Machine Learning by SiftScience at PennAppsX.
-*   Weighed reservoir sampling was used for topic classification for biased resampling of content as a novel way to capture relevancy
-*   Topic/Troll detection done using using Support Vector Machines and bag-of-words representation
+Rehman NA, **Liu J.**, Chunara R.  
+Using Propensity Score Matching to Understand the Relationship Between Online Health Information Sources and Vaccination Sentiment. _AAAI Spring Symposium._ 2016, Stanford University Palo Alto, CA, USA
 
-##### Freelance
+## Online articles
 
-*   Data Scientist for Hack the North, Canada's Largest student run hackathon.
-*   Provided various data services including web crawling, data analysis, and consulting.
-*   Worked also as a designer for clients including TEDxUW and various university clubs.
-*   Maintains 70/30 spit between paid clientwork and pro bono.
-*   Data Mining Canadian Goverment press releases (2002-2015) to uncover potential data journalism stories.
+Liu J.,[What is an intuitive explanation of singular value decomposition?](https://www.quora.com/What-is-an-intuitive-explanation-of-singular-value-decomposition-SVD/answer/Jason-Liu-21) _Quora_ 2015, Waterloo, ON, Canada
 
-##### Experiments
 
-*   Itpy - Lazy evaluated list processing with chained transformations such as streaming variance, groupbys, map, filter and more.
-*   Reservoir - Python module for uniform, exponential, and weighted reservoir sampling.
-*   Bandit -- Java Implementation of various bandit algorithms.
+# Summary of Qualifications
 
-------
+## TECHNOLOGIES
 
-#### Education
+*   Python
+*   R
+*   Spark
+*   MongoDB
+*   SQL
 
-##### University of Waterloo: Computational Mathematics & Statistics
+## TOOLKIT
 
-*   Linear Models
-*   Data Visualization
-*   Data Structures
-*   Linear Algebra II
-*   Real Analysis
-*   Computational Physics
+*   pandas
+*   scikit-learn
+*   Gensim
+*   BeautifulSoup
+*   dplyr
+*   lme4
+*   Requests
+*   gephi
 
-##### Open Online Courseware
+## DEVELOPMENT
 
-*   **Machine Learning** by Andrew Ng
-*   **Data Science** by Bill Howe
-*   **Natural Language Processing** by Dan Jurafsky
+*   vim
+*   git
+*   jupyter
+*   PyCharm
+*   Eclipse
 
---------
+# Education
 
-#### Internet
+## University of Waterloo: Computational Mathematics & Statistics
+
+*   Classification
+*   Comp. Stats
+*   Comp. Phys
+*   Data Structures and Algorithms
+*   Computational Linear Algebra
+*   Group Theory
+*   Real/Complex Analysis
+
+</section>
+
+<section id="contact">
+
+# Internet
 
 *   [Quora](http://www.quora.com/Jason-Liu-21)
 *   [Github](https://github.com/jxnl)
 *   [Dribbble](https://dribbble.com/jxnl)
 *   [LinkedIn](https://ca.linkedin.com/in/jxnlco)
 *   [Twitter](https://twitter.com/jxnlco)
+
+# About
+
+I created and organize [Data Hackers](https://www.facebook.com/groups/541448455986568/) which is collective of 2500+ people interesting in discussing data science and helping eachother get smarter everyday. I'm interested in getting people excited about thinking quantitatively and leveraging our tools to tackle interesting problems, big or small.
+
+Oh yeah, and you can reach me at [jason@jxnl.co](mailto:jason@jxnl.co).
