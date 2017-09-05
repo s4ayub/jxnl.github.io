@@ -37,12 +37,22 @@ div h3 {
   font-size: 1em;
 }
 
+.git-link {
+  text-decoration: none;
+}
+
+p#see-more {
+  margin-top: 3em;
+}
 /**
 left column
 */
+.info-points {
+  line-height: 1.5em;
+}
 
 div#left {
-  width: 63%;
+  width: 72%;
   float: left;
   font-size: 1em;
 }
@@ -78,7 +88,6 @@ Right col
 div#right {
   width: 25%;
   float: right;
-  height: 100%;
 }
 
 div#right h1 {
@@ -118,7 +127,7 @@ div#right li:last-child:after  {
 }
 
 div#right li:after  {
-  content: " +"
+  content: " -"
 }
 
 div#right footer {
